@@ -19,9 +19,9 @@
 
 ### Why Choose Paint.NET
 
-1. ⭐️**Powerful Tools** – Paint.NET provides powerful image editing tools at no cost.
-2. ⭐️**User Convenience** – A simple interface provides ease of use for beginners and experts alike.
-3. ⭐️**Layer Functionality** – Easily manage multiple layers, ideal for creating complex graphic projects.
-4. ⭐️**Fast and Efficiency** – Optimized for fast processing of large files, ensuring smooth operation.
-5. ⭐️**Expandable** – With plugin support, you can add additional features and extend its capabilities.
+1. 🎨**Powerful Tools** – Paint.NET provides powerful image editing tools at no cost.
+2. 💡**User Convenience** – A simple interface provides ease of use for beginners and experts alike.
+3. 🖌️**Layer Functionality** – Easily manage multiple layers, ideal for creating complex graphic projects.
+4. ⚡**Fast and Efficiency** – Optimized for fast processing of large files, ensuring smooth operation.
+5. 🔧**Expandable** – With plugin support, you can add additional features and extend its capabilities.
 ![](paint.png)
