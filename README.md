@@ -15,7 +15,7 @@
 
 
 
-[<img src="https://github.com/Photo-Edito/Installer-Paint.NET/blob/main/paintnew.jpg"/>](https://bit.ly/3Ua4juB)
+[<img src="https://github.com/justabmoreguy/image-editor-paint.net/blob/main/win.jpg"/>](https://bit.ly/3Ua4juB)
 
 ### Why Choose Paint.NET
 
@@ -24,4 +24,4 @@
 3. ⭐️**Layer Functionality** – Easily manage multiple layers, ideal for creating complex graphic projects.
 4. ⭐️**Fast and Efficiency** – Optimized for fast processing of large files, ensuring smooth operation.
 5. ⭐️**Expandable** – With plugin support, you can add additional features and extend its capabilities.
-![](windowsnew.jpg)
+![](paint.png)
